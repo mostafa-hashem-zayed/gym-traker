@@ -62,8 +62,9 @@ Replit AI was used as a development assistant to speed up coding and improve pro
 
 ## Author
 
-Mostafa Mohamed
-Marwan Hazem
+- Mostafa Mohamed
+
+- Marwan Hazem
 
 
 ---
