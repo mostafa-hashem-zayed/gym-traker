@@ -56,7 +56,7 @@ pnpm dev
 
 ## Development
 
-This project was developed by Marwan Hazem.
+This project was developed by Marwan Hazem & Mostafa Mohamed
 
 Replit AI was used as a development assistant to speed up coding and improve productivity. The application structure, feature implementation, customization, testing, and final decisions were completed by the author.
 
